@@ -213,6 +213,29 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
 
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS/Windows
+.DS_Store
+Thumbs.db
+saved_summary_model/
 # Streamlit
 .streamlit/secrets.toml
