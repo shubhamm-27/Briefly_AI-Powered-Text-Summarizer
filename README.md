@@ -169,13 +169,13 @@ Briefly/
 Clone the repository
 
 ```bash
-git clone https://github.com/shubhamm-27/Briefly_AI-Powered-Text-Summarizer.git
+git clone https://github.com/shubhamm-27/Briefly.git
 ```
 
 Navigate to the project directory
 
 ```bash
-cd Briefly_AI-Powered-Text-Summarizer
+cd Briefly
 ```
 
 Install the required dependencies
@@ -194,30 +194,6 @@ Open your browser
 
 ```
 http://127.0.0.1:8000
-```
-
----
-
-## 🌐 API Endpoint
-
-### Generate Summary
-
-**POST** `/summarize/`
-
-### Request
-
-```json
-{
-  "dialogue": "Enter your text here..."
-}
-```
-
-### Response
-
-```json
-{
-  "summary": "Generated summary..."
-}
 ```
 
 ---
